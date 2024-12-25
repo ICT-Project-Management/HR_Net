@@ -28,7 +28,7 @@ Chào mừng các bạn đến với **bài tập lớn** của nhóm 6. Đây l
 3. Đọc các file theo thứ tự:
    - **BTL_PTDACNTT_Nhom6.docx hoặc .pdf**: Đọc toàn bộ nội dung bài tập lớn.
    - **Quản lý dự án Nhóm 6.xlsx**: Theo dõi tiến độ làm việc theo tuần.
-   - **DM124.docx**: Xem chi tiết phân công công việc.
+   - **BM124.docx**: Xem chi tiết phân công công việc.
 
 ---
 ## Thành viên nhóm
